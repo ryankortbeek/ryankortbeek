@@ -10,7 +10,7 @@ I'm a 4th year software engineering student at the University of Alberta. I'm su
 - School :)
 
 ## Contact info
-You can connect with me via email at rakortbe@ualberta.ca or via LinkedIn [here](https://www.linkedin.com/in/ryankortbeek/)
+You can connect with me via email at rakortbe@ualberta.ca or [LinkedIn](https://www.linkedin.com/in/ryankortbeek/)
 
 <!--
 **ryankortbeek/ryankortbeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
