@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 ## About me
 I'm a 4th year software engineering student at the University of Alberta. I'm super interested in ML, AI, and the application of software to spacecraft and fields such as medicine, finance, and robotics. Some of my hobbies include golf, windsurfing, and skiing, and I also enjoy cooking and reading.
