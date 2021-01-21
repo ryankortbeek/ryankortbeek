@@ -1,10 +1,10 @@
 # Hi there 👋
 
 ## About me
-I am a 4th year software engineering student at the University of Alberta interested in the many applications of software, ML, and AI - especially in the areas of spacecraft, healthcare, finance, and robotics. I have experience writing code for Huawei Technologies Canada, AlbertaSat, and UABiomed. Some of my hobbies include golf, windsurfing, skiing, and I also enjoy cooking and reading.
+I am a 4th-year software engineering student at the University of Alberta interested in the many applications of software, ML, and AI - especially in the areas of spacecraft, healthcare, finance, and robotics. I have experience writing code for Huawei Technologies Canada, AlbertaSat, and UABiomed. Some of my hobbies include golf, windsurfing, skiing, and I also enjoy cooking and reading.
 
 ## Currently working on...
-- A [simulator]() for the human-friendly exoskeleton currently being designed and prototyped by [UABiomed](http://www.uabiomed.ca)
+- A simulator for the human-friendly exoskeleton currently being designed and prototyped by [UABiomed](http://www.uabiomed.ca)
 - Further integrating the Live Telecommands terminal on the [AlbertaSat](http://albertasat.ca) Ex-Alta 2 website to our ground station
 - A personal website
 - School :)
