@@ -6,8 +6,6 @@ I am a 4th-year software engineering student at the University of Alberta intere
 ## Currently working on...
 - A simulator for the human-friendly exoskeleton currently being designed and prototyped by [UABiomed](http://www.uabiomed.ca)
 - Further integrating the Live Telecommands terminal on the [AlbertaSat](http://albertasat.ca) Ex-Alta 2 website to our ground station
-- A personal website
-- School :)
 
 ## Contact info
 You can connect with me via email at rakortbe@ualberta.ca or [LinkedIn](https://www.linkedin.com/in/ryankortbeek/)
