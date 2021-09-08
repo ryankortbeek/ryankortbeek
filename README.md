@@ -1,11 +1,11 @@
 # Hi there 👋
 
 ## About me
-I am a 4th-year software engineering student at the University of Alberta. I'm passionate about software and interested in learning more about ML and AI. I have experience writing code for PCL Construction, Huawei Technologies Canada, AlbertaSat, and UABiomed. I also enjoy golf, windsurfing, skiing, and a bit of cooking here and there.
+I am a 5th-year software engineering student at the University of Alberta. I'm passionate about software and interested in learning more about ML and AI. I have experience writing code for PCL Construction, Huawei Technologies, AlbertaSat, and UABiomed. I also enjoy golf, windsurfing, skiing, and a bit of cooking here and there.
 
 ## Currently working on...
 - A simulator for the human-friendly exoskeleton currently being designed and prototyped by [UABiomed](http://www.uabiomed.ca)
-- Some backend dev for the [AlbertaSat](http://albertasat.ca) Ex-Alta 2 website
+- Developing the [AlbertaSat](http://albertasat.ca) Ex-Alta 2 website
 
 ## Contact info
 You can connect with me via email at rakortbe@ualberta.ca or [LinkedIn](https://www.linkedin.com/in/ryankortbeek/)
