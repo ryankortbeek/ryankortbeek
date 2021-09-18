@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## About me
-I am a 5th-year software engineering student at the University of Alberta. I'm passionate about software and interested in learning more about ML and AI. I have experience writing code for PCL Construction, Huawei Technologies, AlbertaSat, and UABiomed. I also enjoy golf, windsurfing, skiing, and a bit of cooking here and there.
+I am a Computer Software Engineering student at the University of Alberta in the final year of my bachelor’s degree. I am passionate about software and interested in learning more about ML and AI. I have experience developing software for PCL Construction, Huawei Technologies, AlbertaSat, and UABiomed. Aside from coding, some of my favourite things to do include windsurfing, golfing, skiing, and hiking.
 
 ## Currently working on...
 - A simulator for the human-friendly exoskeleton currently being designed and prototyped by [UABiomed](http://www.uabiomed.ca)
