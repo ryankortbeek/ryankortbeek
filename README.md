@@ -8,7 +8,7 @@ I am a Computer Software Engineering student at the University of Alberta in the
 - Developing the [AlbertaSat](http://albertasat.ca) Ex-Alta 2 website
 
 ## Contact info
-You can connect with me via email at rakortbe@ualberta.ca or [LinkedIn](https://www.linkedin.com/in/ryankortbeek/)
+You can connect with me via email at rakortbe@ualberta.ca or [LinkedIn](https://www.linkedin.com/in/ryankortbeek/).
 
 <!--
 **ryankortbeek/ryankortbeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
