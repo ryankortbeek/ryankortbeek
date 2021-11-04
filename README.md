@@ -5,8 +5,7 @@ I am a Computer Software Engineering student at the University of Alberta in the
 
 ## Currently working on...
 - Developing the [AlbertaSat](https://github.com/AlbertaSat) Ex-Alta 2 ground station
-- Practicing technical questions
-- Learning more about Rust
+- Learning more about Rust and React
 
 ## Contact info
 You can connect with me via email at rakortbe@ualberta.ca or [LinkedIn](https://www.linkedin.com/in/ryankortbeek/).
