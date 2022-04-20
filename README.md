@@ -4,7 +4,7 @@
 I am a Computer Software Engineering student at the University of Alberta in the final year of my bachelor’s degree. I am passionate about problem solving, learning, and gaining experience as a Software Engineer. I have experience developing software for PCL Construction, Huawei Technologies, AlbertaSat, and UABiomed. Aside from coding, some of my favourite things to do include windsurfing, golfing, skiing, and hiking.
 
 ## Currently working on...
-- Developing the [AlbertaSat](https://github.com/AlbertaSat) Ex-Alta 2 ground station
+- Building out [StudyBuddy](https://mystudybuddy.ai)
 - Developing a personal portfolio
 - Learning more about dapps
 
